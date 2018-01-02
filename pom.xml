@@ -45,13 +45,13 @@
         <repository>
                 <id>deployment</id>
                 <name>Internal Releases</name>
-                <url>http://localhost:8070/nexus/content/repositories/DevOps/</url>
+                <url>http://localhost:8090/repository/DevOps/</url>
         </repository>
 
         <snapshotRepository>
                 <id>deployment</id>
                 <name>Internal Releases</name>
-                <url>http://localhost:8070/nexus/content/repositories/DevOps-snapshot/</url>
+                <url>http://localhost:8090/repository/DevOpssnap/</url>
         </snapshotRepository>
 
 </distributionManagement>
